@@ -27,7 +27,7 @@ This document describes JS-JSLint version 0.01_1.
 =head1 DESCRIPTION
 
 JSLint is a code quality tool for JavaScript.  This distribution packages
-JSLint version 2011-07-18 for use with the L<JS> framework on CPAN.
+JSLint version 2011-07-19 for use with the L<JS> framework on CPAN.
 
 =head1 SEE ALSO
 
