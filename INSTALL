@@ -1,10 +1,10 @@
 JS-JSLint Installation
 
 # install via cpanminus
-cpanm JS-JSLint
+cpanm JS::JSLint
 
 # install via CPAN shell
-cpan JS-JSLint
+cpan JS::JSLint
 
 # install manually
 perl Build.PL

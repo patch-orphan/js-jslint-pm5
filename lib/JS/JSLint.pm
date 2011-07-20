@@ -4,7 +4,7 @@ use 5.006;
 use strict;
 use warnings;
 
-our $VERSION = '0.01';
+our $VERSION = '0.01_1';
 
 1;
 
@@ -12,11 +12,11 @@ __END__
 
 =head1 NAME
 
-JS-JSLint - JSLint: The JavaScript Code Quality Tool (for JS)
+JS-JSLint - JSLint (for JS): The JavaScript code quality tool
 
 =head1 VERSION
 
-This document describes JS-JSLint version 0.01.
+This document describes JS-JSLint version 0.01_1.
 
 =cut
 
@@ -27,7 +27,7 @@ This document describes JS-JSLint version 0.01.
 =head1 DESCRIPTION
 
 JSLint is a code quality tool for JavaScript.  This distribution packages
-JSLint for use with the L<JS> framework on CPAN.
+JSLint version 2011-07-18 for use with the L<JS> framework on CPAN.
 
 =head1 SEE ALSO
 
@@ -38,6 +38,8 @@ JSLint for use with the L<JS> framework on CPAN.
 =item * JSLint: L<http://www.jslint.com/>
 
 =item * JSLint repository: L<https://github.com/douglascrockford/JSLint/>
+
+=item * L<JavaScript::JSLint>
 
 =back
 
@@ -52,6 +54,6 @@ Douglas Crockford <douglas@crockford.com> is the author of JSLint
 Copyright 2011 Nick Patch
 
 This program is free software; you can redistribute it and/or modify it
-under the same terms as Perl itself.
+under the same terms as JSLint itself.
 
 =cut
