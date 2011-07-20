@@ -4,7 +4,7 @@ use 5.006;
 use strict;
 use warnings;
 
-our $VERSION = '0.01_1';
+our $VERSION = '0.02';
 
 1;
 
@@ -16,7 +16,7 @@ JS-JSLint - JSLint (for JS): The JavaScript code quality tool
 
 =head1 VERSION
 
-This document describes JS-JSLint version 0.01_1.
+This document describes JS-JSLint version 0.02.
 
 =cut
 

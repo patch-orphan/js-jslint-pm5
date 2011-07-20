@@ -1,6 +1,6 @@
 ---
-version: 0.01_1
-date:    
+version: 0.02
+date:    2011-07-20
 changes:
 - Upgrade JSLint to 2011-07-19
 - Change license from Perl to JSLint (modified MIT)

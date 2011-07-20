@@ -2,7 +2,7 @@ NAME
     JS-JSLint - JSLint (for JS): The JavaScript code quality tool
 
 VERSION
-    This document describes JS-JSLint version 0.01_1.
+    This document describes JS-JSLint version 0.02.
 
 SYNOPSIS
         var result = JSLINT(source, options);
