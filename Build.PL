@@ -4,7 +4,6 @@ use Module::Build;
 
 my $builder = Module::Build->new(
     module_name    => 'JS::JSLint',
-    license        => 'unrestricted',
     create_readme  => 1,
     configure_requires => {
         'Module::Build' => 0.36,
