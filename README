@@ -1,0 +1,31 @@
+NAME
+    JS-JSLint - JSLint: The JavaScript Code Quality Tool (for JS)
+
+VERSION
+    This document describes JS-JSLint version 0.01.
+
+SYNOPSIS
+        var result = JSLINT(source, options);
+
+DESCRIPTION
+    JSLint is a code quality tool for JavaScript. This distribution packages
+    JSLint for use with the JS framework on CPAN.
+
+SEE ALSO
+    *   JS
+
+    *   JSLint: <http://www.jslint.com/>
+
+    *   JSLint repository: <https://github.com/douglascrockford/JSLint/>
+
+AUTHORS
+    Nick Patch <patch@cpan.org> is the packager of JS-JSLint
+
+    Douglas Crockford <douglas@crockford.com> is the author of JSLint
+
+COPYRIGHT & LICENSE
+    Copyright 2011 Nick Patch
+
+    This program is free software; you can redistribute it and/or modify it
+    under the same terms as Perl itself.
+
