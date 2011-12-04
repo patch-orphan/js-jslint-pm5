@@ -2,14 +2,14 @@ NAME
     JS-JSLint - JSLint (for JS): The JavaScript code quality tool
 
 VERSION
-    This document describes JS-JSLint version 0.02.
+    This document describes JS-JSLint version 0.03.
 
 SYNOPSIS
         var result = JSLINT(source, options);
 
 DESCRIPTION
     JSLint is a code quality tool for JavaScript. This distribution packages
-    JSLint version 2011-07-19 for use with the JS framework on CPAN.
+    JSLint version 2011-11-16 for use with the JS framework on CPAN.
 
 SEE ALSO
     *   JS

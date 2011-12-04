@@ -4,7 +4,7 @@ use 5.006;
 use strict;
 use warnings;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 1;
 
@@ -16,7 +16,7 @@ JS-JSLint - JSLint (for JS): The JavaScript code quality tool
 
 =head1 VERSION
 
-This document describes JS-JSLint version 0.02.
+This document describes JS-JSLint version 0.03.
 
 =cut
 
@@ -27,7 +27,7 @@ This document describes JS-JSLint version 0.02.
 =head1 DESCRIPTION
 
 JSLint is a code quality tool for JavaScript.  This distribution packages
-JSLint version 2011-07-19 for use with the L<JS> framework on CPAN.
+JSLint version 2011-11-16 for use with the L<JS> framework on CPAN.
 
 =head1 SEE ALSO
 
